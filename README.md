@@ -1,10 +1,12 @@
+<img src= "oneeye.png" width='100' />
+
 # Name:
 
 Watching Eyes
 
-#Description:
+# Description:
 
-<img src= "oneeye.png" width='300'/>The goal of this project was to have 2 "eyes" that follow the mouse as it moves around the screen.
+The goal of this project was to have 2 "eyes" that follow the mouse as it moves around the screen.
 
 # Installation:
 
