@@ -10,7 +10,7 @@ The goal of this project was to have 2 "eyes" that follow the mouse as it moves 
 
 # Installation:
 
-Requires the index.html, eyes.css and eyes.js files to be in the same directory.
+Requires the index.html, styles.css and eyes.js files to be in the same directory.
 
 # Usage:
 
