@@ -1,4 +1,4 @@
-<img src= "oneeye.png" width='100' />
+<img src= "./images/oneeye.png" width='100' />
 
 # Name:
 
